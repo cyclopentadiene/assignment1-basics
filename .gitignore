@@ -161,3 +161,13 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# Project-specific
+data/
+output/
+scalene-profile.*
+.DS_Store
+.agent/
+run_output.log
+CHANGELOG.md
+NEXT_CHAT_PROMPT.md
